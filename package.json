@@ -1,0 +1,24 @@
+{
+  "name": "student-portal",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "test": "node --test",
+    "server": "node server/index.js"
+  },
+  "dependencies": {
+    "react": "^19.3.1",
+    "react-router-dom": "^7.1.5",
+    "lucide-react": "^0.475.0",
+    "recharts": "^2.15.1"
+  },
+  "devDependencies": {
+    "@tailwindcss/vite": "^4.3.3",
+    "@vitejs/plugin-react": "^6.1.2",
+    "tailwindcss": "^4.3.3",
+    "vite": "^8.3.5"
+  }
+}

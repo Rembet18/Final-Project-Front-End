@@ -1,0 +1,291 @@
+[
+  {
+    "assignmentId": "asg-005",
+    "courseCode": "CS301",
+    "courseName": "Advanced Web Architecture & React",
+    "title": "Custom React Hooks & LocalStorage State Synchronizer",
+    "completedDate": "2026-10-15",
+    "maxPoints": 50,
+    "submissions": [
+      {
+        "studentNim": "220010984",
+        "studentName": "Alex Morgan",
+        "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&q=80&w=256",
+        "submittedAt": "2026-10-14 18:30 WIB",
+        "timeliness": "Tepat Waktu",
+        "score": 50,
+        "grade": "A",
+        "fileLink": "https://github.com/alex-morgan/react-custom-hooks-sync",
+        "fileType": "GitHub PR",
+        "feedback": "Implementasi hook useLocalStorage dan debounce sangat efisien, penanganan memory leak bersih."
+      },
+      {
+        "studentNim": "220010985",
+        "studentName": "Siti Rahmawati",
+        "avatar": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&q=80&w=256",
+        "submittedAt": "2026-10-14 21:15 WIB",
+        "timeliness": "Tepat Waktu",
+        "score": 48,
+        "grade": "A",
+        "fileLink": "https://github.com/sitirahma/react-hooks-library",
+        "fileType": "GitHub PR",
+        "feedback": "Struktur kode modular dan pengujian unit jest berjalan 100% lulus."
+      },
+      {
+        "studentNim": "220010986",
+        "studentName": "Budi Santoso",
+        "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&q=80&w=256",
+        "submittedAt": "2026-10-15 11:05 WIB",
+        "timeliness": "Tepat Waktu",
+        "score": 45,
+        "grade": "A-",
+        "fileLink": "https://github.com/budisantoso/custom-hooks",
+        "fileType": "GitHub PR",
+        "feedback": "Bagus, disarankan menambahkan typescript interface yang lebih ketat."
+      },
+      {
+        "studentNim": "220010987",
+        "studentName": "Farhan Maulana",
+        "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&q=80&w=256",
+        "submittedAt": "2026-10-15 16:40 WIB",
+        "timeliness": "Tepat Waktu",
+        "score": 47,
+        "grade": "A",
+        "fileLink": "https://github.com/farhan-m/react-hooks-demo",
+        "fileType": "GitHub PR",
+        "feedback": "Dokumentasi README sangat jelas dan ada demo interaktif."
+      },
+      {
+        "studentNim": "220010988",
+        "studentName": "Jessica Tan",
+        "avatar": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&q=80&w=256",
+        "submittedAt": "2026-10-15 22:50 WIB",
+        "timeliness": "Tepat Waktu",
+        "score": 46,
+        "grade": "A-",
+        "fileLink": "https://github.com/jessicatan/react-storage-hook",
+        "fileType": "GitHub PR",
+        "feedback": "Solusi solid, sinkronisasi antar-tab browser berjalan baik."
+      }
+    ]
+  },
+  {
+    "assignmentId": "asg-006",
+    "courseCode": "CS304",
+    "courseName": "Database Management Systems & SQL",
+    "title": "Complex Window Functions & Analytical SQL Queries",
+    "completedDate": "2026-10-22",
+    "maxPoints": 50,
+    "submissions": [
+      {
+        "studentNim": "220010984",
+        "studentName": "Alex Morgan",
+        "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&q=80&w=256",
+        "submittedAt": "2026-10-21 15:40 WIB",
+        "timeliness": "Tepat Waktu",
+        "score": 50,
+        "grade": "A",
+        "fileLink": "https://storage.unisphere.ac.id/submissions/cs304-alex-window-fn.sql",
+        "fileType": ".sql script",
+        "feedback": "Query DENSE_RANK() dan OVER (PARTITION BY) sangat akurat dan optimal."
+      },
+      {
+        "studentNim": "220010985",
+        "studentName": "Siti Rahmawati",
+        "avatar": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&q=80&w=256",
+        "submittedAt": "2026-10-22 10:20 WIB",
+        "timeliness": "Tepat Waktu",
+        "score": 49,
+        "grade": "A",
+        "fileLink": "https://storage.unisphere.ac.id/submissions/cs304-siti-analysis.sql",
+        "fileType": ".sql script",
+        "feedback": "Penjelasan query analitis lengkap dengan benchmark execution plan."
+      },
+      {
+        "studentNim": "220010986",
+        "studentName": "Budi Santoso",
+        "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&q=80&w=256",
+        "submittedAt": "2026-10-22 14:00 WIB",
+        "timeliness": "Tepat Waktu",
+        "score": 44,
+        "grade": "B+",
+        "fileLink": "https://storage.unisphere.ac.id/submissions/cs304-budi-queries.sql",
+        "fileType": ".sql script",
+        "feedback": "Hasil benar, namun bisa dioptimasi dengan indexing pada kolom filter."
+      },
+      {
+        "studentNim": "220010989",
+        "studentName": "Ahmad Fauzan",
+        "avatar": "https://images.unsplash.com/photo-1522075469751-3a6694fb2f61?auto=format&fit=crop&q=80&w=256",
+        "submittedAt": "2026-10-22 16:30 WIB",
+        "timeliness": "Tepat Waktu",
+        "score": 47,
+        "grade": "A",
+        "fileLink": "https://storage.unisphere.ac.id/submissions/cs304-fauzan-db.sql",
+        "fileType": ".sql script",
+        "feedback": "Sintaks SQL rapi dan hasil perhitungan ranking akurat."
+      }
+    ]
+  },
+  {
+    "assignmentId": "asg-007",
+    "courseCode": "CS312",
+    "courseName": "Software Engineering & Agile Methodology",
+    "title": "Software Requirements Specification (SRS) & UML Models",
+    "completedDate": "2026-10-25",
+    "maxPoints": 75,
+    "submissions": [
+      {
+        "studentNim": "220010984",
+        "studentName": "Alex Morgan",
+        "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&q=80&w=256",
+        "submittedAt": "2026-10-24 20:00 WIB",
+        "timeliness": "Tepat Waktu",
+        "score": 73,
+        "grade": "A",
+        "fileLink": "https://storage.unisphere.ac.id/submissions/cs312-srs-carpool-system.pdf",
+        "fileType": "PDF Document",
+        "feedback": "Standar IEEE 830 dipatuhi dengan sangat baik, use case dan diagram urutan jelas."
+      },
+      {
+        "studentNim": "220010987",
+        "studentName": "Farhan Maulana",
+        "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&q=80&w=256",
+        "submittedAt": "2026-10-25 14:10 WIB",
+        "timeliness": "Tepat Waktu",
+        "score": 70,
+        "grade": "A-",
+        "fileLink": "https://storage.unisphere.ac.id/submissions/cs312-farhan-srs.pdf",
+        "fileType": "PDF Document",
+        "feedback": "Diagram kelas terperinci, kebutuhan non-fungsional sudah dicakup."
+      },
+      {
+        "studentNim": "220010990",
+        "studentName": "Nadya Kusuma",
+        "avatar": "https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&q=80&w=256",
+        "submittedAt": "2026-10-25 21:45 WIB",
+        "timeliness": "Tepat Waktu",
+        "score": 72,
+        "grade": "A",
+        "fileLink": "https://storage.unisphere.ac.id/submissions/cs312-nadya-specification.pdf",
+        "fileType": "PDF Document",
+        "feedback": "Format laporan profesional dan trace matrix kebutuhan lengkap."
+      }
+    ]
+  },
+  {
+    "assignmentId": "asg-009",
+    "courseCode": "CS320",
+    "courseName": "Cloud Computing & DevOps Practicum",
+    "title": "Multi-Stage Dockerfile Optimization & Compose Setup",
+    "completedDate": "2026-11-03",
+    "maxPoints": 70,
+    "submissions": [
+      {
+        "studentNim": "220010984",
+        "studentName": "Alex Morgan",
+        "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&q=80&w=256",
+        "submittedAt": "2026-11-02 17:15 WIB",
+        "timeliness": "Tepat Waktu",
+        "score": 68,
+        "grade": "A",
+        "fileLink": "https://github.com/alex-morgan/docker-multistage-opt",
+        "fileType": "GitHub Repo",
+        "feedback": "Ukuran image berhasil dipangkas hingga 48MB dengan Alpine build runner."
+      },
+      {
+        "studentNim": "220010986",
+        "studentName": "Budi Santoso",
+        "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&q=80&w=256",
+        "submittedAt": "2026-11-03 12:30 WIB",
+        "timeliness": "Tepat Waktu",
+        "score": 65,
+        "grade": "A-",
+        "fileLink": "https://github.com/budisantoso/devops-docker-compose",
+        "fileType": "GitHub Repo",
+        "feedback": "Konfigurasi docker-compose multi-service berhasil diuji."
+      },
+      {
+        "studentNim": "220010991",
+        "studentName": "Kevin Sanjaya",
+        "avatar": "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?auto=format&fit=crop&q=80&w=256",
+        "submittedAt": "2026-11-03 17:50 WIB",
+        "timeliness": "Tepat Waktu",
+        "score": 67,
+        "grade": "A",
+        "fileLink": "https://github.com/kevin-sanjaya/docker-optimization",
+        "fileType": "GitHub Repo",
+        "feedback": "Lapisan cache layer Docker dimanfaatkan dengan tepat."
+      }
+    ]
+  },
+  {
+    "assignmentId": "asg-0010",
+    "courseCode": "CS308",
+    "courseName": "Computer Networks & Security Protocols",
+    "title": "Subnet Masking & VLSM IP Address Allocation Plan",
+    "completedDate": "2026-10-08",
+    "maxPoints": 50,
+    "submissions": [
+      {
+        "studentNim": "220010984",
+        "studentName": "Alex Morgan",
+        "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&q=80&w=256",
+        "submittedAt": "2026-10-07 19:20 WIB",
+        "timeliness": "Tepat Waktu",
+        "score": 50,
+        "grade": "A",
+        "fileLink": "https://storage.unisphere.ac.id/submissions/cs308-vlsm-calculation-alex.pdf",
+        "fileType": "PDF Worksheet",
+        "feedback": "Perhitungan alokasi CIDR /24 hingga /29 tanpa pemborosan host address."
+      },
+      {
+        "studentNim": "220010985",
+        "studentName": "Siti Rahmawati",
+        "avatar": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&q=80&w=256",
+        "submittedAt": "2026-10-08 11:00 WIB",
+        "timeliness": "Tepat Waktu",
+        "score": 48,
+        "grade": "A",
+        "fileLink": "https://storage.unisphere.ac.id/submissions/cs308-siti-vlsm.pdf",
+        "fileType": "PDF Worksheet",
+        "feedback": "Diagram topologi jaringan dan tabel subnetting akurat."
+      }
+    ]
+  },
+  {
+    "assignmentId": "asg-0011",
+    "courseCode": "CS315",
+    "courseName": "Artificial Intelligence & Machine Learning",
+    "title": "Heuristic Search: Pacman A* Pathfinding Solver",
+    "completedDate": "2026-10-18",
+    "maxPoints": 75,
+    "submissions": [
+      {
+        "studentNim": "220010984",
+        "studentName": "Alex Morgan",
+        "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&q=80&w=256",
+        "submittedAt": "2026-10-17 22:10 WIB",
+        "timeliness": "Tepat Waktu",
+        "score": 75,
+        "grade": "A",
+        "fileLink": "https://github.com/alex-morgan/pacman-astar-solver",
+        "fileType": "Python File",
+        "feedback": "Fungsi heuristik konsisten dan admissible, eksplorasi node minimal."
+      },
+      {
+        "studentNim": "220010988",
+        "studentName": "Jessica Tan",
+        "avatar": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&q=80&w=256",
+        "submittedAt": "2026-10-18 16:30 WIB",
+        "timeliness": "Tepat Waktu",
+        "score": 72,
+        "grade": "A",
+        "fileLink": "https://github.com/jessicatan/ai-heuristic-search",
+        "fileType": "Python File",
+        "feedback": "Algoritma A* dan BFS berhasil menyelesaikan semua maze layout."
+      }
+    ]
+  }
+]
+

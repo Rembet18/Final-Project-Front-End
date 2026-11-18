@@ -1,0 +1,48 @@
+[
+  {
+    "id": "notif-001",
+    "title": "Upcoming Exam in 2 Weeks",
+    "message": "Advanced Web Architecture & React midterm exam scheduled for Nov 24, 08:30 AM at Auditorium A.",
+    "time": "15 minutes ago",
+    "timestamp": "2026-11-08T22:30:00",
+    "type": "exam",
+    "read": false
+  },
+  {
+    "id": "notif-002",
+    "title": "Assignment Deadline Warning",
+    "message": "Database Stored Procedures assignment is due in 10 days. Ensure schema scripts are formatted.",
+    "time": "2 hours ago",
+    "timestamp": "2026-11-08T20:45:00",
+    "type": "deadline",
+    "read": false
+  },
+  {
+    "id": "notif-003",
+    "title": "Attendance Recorded",
+    "message": "Your attendance for Cloud Computing & DevOps Practicum was verified successfully via RFID gate.",
+    "time": "Yesterday",
+    "timestamp": "2026-11-07T14:10:00",
+    "type": "attendance",
+    "read": false
+  },
+  {
+    "id": "notif-004",
+    "title": "New Official Circular",
+    "message": "Midterm Examination regulations and seat numbers have been published by the Academic Office.",
+    "time": "3 days ago",
+    "timestamp": "2026-11-05T09:00:00",
+    "type": "announcement",
+    "read": true
+  },
+  {
+    "id": "notif-005",
+    "title": "Grade Posted for Lab 4",
+    "message": "Prof. Thorne awarded score 95/100 on Custom React Hooks and State Synchronization.",
+    "time": "1 week ago",
+    "timestamp": "2026-11-01T16:20:00",
+    "type": "grade",
+    "read": true
+  }
+]
+

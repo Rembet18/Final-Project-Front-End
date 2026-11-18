@@ -1,0 +1,86 @@
+[
+  {
+    "id": "lec-001",
+    "nip": "Dosen123@UniSphere.ac.id",
+    "name": "Sir Enrico Djimesha",
+    "role": "lecturer",
+    "title": "Ketua Program Studi & Dosen Senior",
+    "email": "hibbertsurentu@gmail.com",
+    "password": "dosen123",
+    "department": "Informatics & Computer Science",
+    "faculty": "Faculty of Engineering & Technology",
+    "courses": [
+      {
+        "id": "c-001",
+        "code": "CS301",
+        "name": "Advanced Web Architecture & React",
+        "credits": 4,
+        "schedule": "Monday, 08:00 - 11:30 AM",
+        "room": "Lab Komputer 4 (Ruang 402)"
+      },
+      {
+        "id": "c-002",
+        "code": "CS304",
+        "name": "Database Management Systems & SQL",
+        "credits": 3,
+        "schedule": "Tuesday, 10:00 - 12:30 PM",
+        "room": "Ruang Kuliah Teori B-201"
+      }
+    ],
+    "office": "Gedung Dosen Lt. 3, Ruang D-304",
+    "phone": "+62 812-4455-6677",
+    "bio": "Dosen pengampu arsitektur web modern, basis data terdistribusi, dan pembimbing proyek akhir mahasiswa.",
+    "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&q=80&w=256"
+  },
+  {
+    "id": "lec-002",
+    "nip": "197503121998032001",
+    "name": "Prof. Dr. Helena Thorne",
+    "role": "lecturer",
+    "title": "Guru Besar Rekayasa Web",
+    "email": "h.thorne@unisphere.ac.id",
+    "password": "dosen123",
+    "department": "Software Engineering",
+    "faculty": "Faculty of Engineering & Technology",
+    "courses": [
+      {
+        "id": "c-001",
+        "code": "CS301",
+        "name": "Advanced Web Architecture & React",
+        "credits": 4,
+        "schedule": "Monday, 08:00 - 11:30 AM",
+        "room": "Lab Komputer 4 (Ruang 402)"
+      }
+    ],
+    "office": "Gedung Dekanat Lt. 2, Ruang 201",
+    "phone": "+62 813-8899-1122",
+    "bio": "Peneliti bidang Component Lifecycle, Client-side Hydration, dan Single Page Application performance.",
+    "avatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&q=80&w=256"
+  },
+  {
+    "id": "lec-003",
+    "nip": "198706152012022002",
+    "name": "Sarah Jenkins, Ph.D.",
+    "role": "lecturer",
+    "title": "Dosen Rekayasa Perangkat Lunak",
+    "email": "s.jenkins@unisphere.ac.id",
+    "password": "dosen123",
+    "department": "Software Engineering",
+    "faculty": "Faculty of Engineering & Technology",
+    "courses": [
+      {
+        "id": "c-004",
+        "code": "CS312",
+        "name": "Software Engineering & Agile Methodology",
+        "credits": 3,
+        "schedule": "Thursday, 08:30 - 11:00 AM",
+        "room": "Ruang Seminar Utama LT.3"
+      }
+    ],
+    "office": "Gedung Dosen Lt. 2, Ruang D-205",
+    "phone": "+62 811-2233-4455",
+    "bio": "Praktisi Agile Scrum, CI/CD pipelines, dan automated test architectural patterns.",
+    "avatar": "https://images.unsplash.com/photo-1580489944761-15a19d654956?auto=format&fit=crop&q=80&w=256"
+  }
+]
+

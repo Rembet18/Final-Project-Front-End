@@ -1,0 +1,224 @@
+[
+  {
+    "id": "std-001",
+    "nim": "220010984",
+    "name": "Alex Morgan",
+    "email": "alex.morgan@unisphere.ac.id",
+    "password": "student123",
+    "major": "Computer Science (Software Engineering)",
+    "faculty": "Faculty of Engineering & Technology",
+    "academicAdvisor": "Dr. Robert Vance, Ph.D.",
+    "semester": 6,
+    "enrollmentYear": 2022,
+    "cgpa": 3.78,
+    "completedCredits": 114,
+    "totalRequiredCredits": 144,
+    "phone": "+62 812-9840-2201",
+    "address": "Jl. Kampus Merdeka No. 42, Gedung Asrama Mahasiswa B-302",
+    "bio": "Third-year Computer Science undergraduate passionate about full-stack web architectures, distributed systems, and modern frontend UX.",
+    "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&q=80&w=256"
+  },
+  {
+    "id": "std-002",
+    "nim": "220010985",
+    "name": "Siti Rahmawati",
+    "email": "siti.rahmawati@unisphere.ac.id",
+    "password": "student123"
+  },
+  {
+    "id": "std-003",
+    "nim": "220010986",
+    "name": "Budi Santoso",
+    "email": "budi.santoso@unisphere.ac.id",
+    "password": "student123"
+  },
+  {
+    "id": "std-004",
+    "nim": "220010987",
+    "name": "Farhan Maulana",
+    "email": "farhan.maulana@unisphere.ac.id",
+    "password": "student123"
+  },
+  {
+    "id": "std-005",
+    "nim": "220010988",
+    "name": "Putri Anindya",
+    "email": "putri.anindya@unisphere.ac.id",
+    "password": "student123"
+  },
+  {
+    "id": "std-006",
+    "nim": "220010989",
+    "name": "Rizky Pratama",
+    "email": "rizky.pratama@unisphere.ac.id",
+    "password": "student123"
+  },
+  {
+    "id": "std-007",
+    "nim": "220010990",
+    "name": "Dinda Permata",
+    "email": "dinda.permata@unisphere.ac.id",
+    "password": "student123"
+  },
+  {
+    "id": "std-008",
+    "nim": "220010991",
+    "name": "Agus Setiawan",
+    "email": "agus.setiawan@unisphere.ac.id",
+    "password": "student123"
+  },
+  {
+    "id": "std-009",
+    "nim": "220010992",
+    "name": "Maya Lestari",
+    "email": "maya.lestari@unisphere.ac.id",
+    "password": "student123"
+  },
+  {
+    "id": "std-010",
+    "nim": "220010993",
+    "name": "Fajar Nugroho",
+    "email": "fajar.nugroho@unisphere.ac.id",
+    "password": "student123"
+  },
+  {
+    "id": "std-011",
+    "nim": "220010994",
+    "name": "Intan Maharani",
+    "email": "intan.maharani@unisphere.ac.id",
+    "password": "student123"
+  },
+  {
+    "id": "std-012",
+    "nim": "220010995",
+    "name": "Rina Kurniawati",
+    "email": "rina.kurniawati@unisphere.ac.id",
+    "password": "student123"
+  },
+  {
+    "id": "std-013",
+    "nim": "220010996",
+    "name": "Aditya Saputra",
+    "email": "aditya.saputra@unisphere.ac.id",
+    "password": "student123"
+  },
+  {
+    "id": "std-014",
+    "nim": "220010997",
+    "name": "Nabila Zahra",
+    "email": "nabila.zahra@unisphere.ac.id",
+    "password": "student123"
+  },
+  {
+    "id": "std-015",
+    "nim": "220010998",
+    "name": "Yoga Firmansyah",
+    "email": "yoga.firmansyah@unisphere.ac.id",
+    "password": "student123"
+  },
+  {
+    "id": "std-016",
+    "nim": "220010999",
+    "name": "Citra Anggraini",
+    "email": "citra.anggraini@unisphere.ac.id",
+    "password": "student123"
+  },
+  {
+    "id": "std-017",
+    "nim": "220011000",
+    "name": "Rafi Hidayat",
+    "email": "rafi.hidayat@unisphere.ac.id",
+    "password": "student123"
+  },
+  {
+    "id": "std-018",
+    "nim": "220011001",
+    "name": "Salsabila Putri",
+    "email": "salsabila.putri@unisphere.ac.id",
+    "password": "student123"
+  },
+  {
+    "id": "std-019",
+    "nim": "220011002",
+    "name": "Dimas Arya",
+    "email": "dimas.arya@unisphere.ac.id",
+    "password": "student123"
+  },
+  {
+    "id": "std-020",
+    "nim": "220011003",
+    "name": "Anisa Oktaviani",
+    "email": "anisa.oktaviani@unisphere.ac.id",
+    "password": "student123"
+  },
+  {
+    "id": "std-021",
+    "nim": "220011004",
+    "name": "Bagas Wicaksono",
+    "email": "bagas.wicaksono@unisphere.ac.id",
+    "password": "student123"
+  },
+  {
+    "id": "std-022",
+    "nim": "220011005",
+    "name": "Nurul Aini",
+    "email": "nurul.aini@unisphere.ac.id",
+    "password": "student123"
+  },
+  {
+    "id": "std-023",
+    "nim": "220011006",
+    "name": "Kevin Wijaya",
+    "email": "kevin.wijaya@unisphere.ac.id",
+    "password": "student123"
+  },
+  {
+    "id": "std-024",
+    "nim": "220011007",
+    "name": "Tiara Puspita",
+    "email": "tiara.puspita@unisphere.ac.id",
+    "password": "student123"
+  },
+  {
+    "id": "std-025",
+    "nim": "220011008",
+    "name": "Andi Prasetyo",
+    "email": "andi.prasetyo@unisphere.ac.id",
+    "password": "student123"
+  },
+  {
+    "id": "std-026",
+    "nim": "220011009",
+    "name": "Laila Fitriani",
+    "email": "laila.fitriani@unisphere.ac.id",
+    "password": "student123"
+  },
+  {
+    "id": "std-027",
+    "nim": "220011010",
+    "name": "Reza Maulana",
+    "email": "reza.maulana@unisphere.ac.id",
+    "password": "student123"
+  },
+  {
+    "id": "std-028",
+    "nim": "220011011",
+    "name": "Vina Amelia",
+    "email": "vina.amelia@unisphere.ac.id",
+    "password": "student123"
+  },
+  {
+    "id": "std-029",
+    "nim": "220011012",
+    "name": "Ilham Ramadhan",
+    "email": "ilham.ramadhan@unisphere.ac.id",
+    "password": "student123"
+  },
+  {
+    "id": "std-030",
+    "nim": "220011013",
+    "name": "Elsa Natalia",
+    "email": "elsa.natalia@unisphere.ac.id",
+    "password": "student123"
+  }
+]
